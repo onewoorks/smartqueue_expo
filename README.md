@@ -2,8 +2,8 @@
 mobile application using react native (expo), tested on IOS device only, 
 
 ## how to use this application
-1. you need to deploy and restful application from *http://github.com/smartq*  as reference
-2. install *expo cli*
+1. you need to deploy a restful application from *https://github.com/onewoorks/smartq*  as reference
+2. install *expo cli* please google expo cli for further information
 3. git clone this repository to your local drive
 4. cd *smartqueue_expo*
 5. npm install
