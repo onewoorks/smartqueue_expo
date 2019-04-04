@@ -48,10 +48,12 @@ const Router = createStackNavigator({
     navigationOptions: {
       title: 'TRANSACTION',
       headerStyle: {
+        marginTop: 20,
         backgroundColor: '#005e2d',
       },
       headerTitleStyle: {
-        fontWeight: 'bold'
+        fontWeight: 'bold',
+        color:'#fff'
       }
     }
   },
@@ -60,24 +62,52 @@ const Router = createStackNavigator({
     navigationOptions: {
       header: null,
       headerStyle: {
+        marginTop:20,
         backgroundColor: '#005e2d',
-      },
+      }
     }
   },
   orgInfo: {
     screen: OrgInfo,
     navigationOptions: {
-      title: "INFORMATION"
+      title: "INFORMATION",
+      headerStyle: {
+        marginTop: 20,
+        backgroundColor: '#005e2d',
+      },
+      headerTitleStyle: {
+        fontWeight: 'bold',
+        color:'#fff'
+      }
     }
   },
   orgMap: {
-    screen: OrgMap
+    screen: OrgMap,
+    navigationOptions: {
+      headerStyle: {
+        marginTop: 20,
+        backgroundColor: '#005e2d',
+      },
+      headerTitleStyle: {
+        fontWeight: 'bold',
+        color:'#fff'
+      }
+    },
   },
   orgDetail: {
     screen: OrgDetail,
       navigationOptions: {
-        title: "ADDITIONAL INFO"
-      }
+        title: "ADDITIONAL INFO",
+        headerStyle: {
+          marginTop: 20,
+          backgroundColor: '#005e2d',
+        },
+        headerTitleStyle: {
+          fontWeight: 'bold',
+          color:'#fff'
+        }
+      },
+      
   },
   myNumber: {
     screen: MyNumber,
@@ -102,7 +132,7 @@ export default class App extends Component {
   
   render() {
     return (
-      <Router />
+        <Router />
     )
   }
 }

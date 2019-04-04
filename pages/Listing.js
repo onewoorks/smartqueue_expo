@@ -38,7 +38,7 @@ export default class Listing extends Component {
     const { navigation } = this.props
     return (
       <Container theme={SmartQTheme}>
-        <Header style={{ backgroundColor: "#005e2d", borderWidth: 0 }}>
+        <Header style={{ backgroundColor: "#005e2d", borderWidth: 0, paddingTop:38, height:80 }}>
           <Left>
             <Button transparent onPress={() => this.props.navigation.navigate('department')}>
               <Image source={require('../assets/logo-top.png')} />

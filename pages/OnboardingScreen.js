@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Image } from 'react-native';
+import { Image } from 'react-native';
 import Onboarding from 'react-native-simple-onboarding';
 
 var Config = require("../config");
