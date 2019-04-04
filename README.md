@@ -1,7 +1,7 @@
 # smart queue prototype
 mobile application using react native (expo), tested only on IOS device.
 
-![](http://onewoorks-solutions.com/github_images/smartq_1.png | width=300)
+![](http://onewoorks-solutions.com/github_images/smartq_1.png)
 ![](http://onewoorks-solutions.com/github_images/smartq_2.png | width=300)
 ![](http://onewoorks-solutions.com/github_images/smartq_3.png | width=300)
 ![](http://onewoorks-solutions.com/github_images/smartq_4.png | width=300)
