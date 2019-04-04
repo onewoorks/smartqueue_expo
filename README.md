@@ -1,7 +1,7 @@
 # smart queue prototype
 mobile application using react native (expo), tested only on IOS device.
 
-<img src='https://onewoorks-solutions.com/github_images/smartq.jpg' />
+<img src='https://onewoorks-solutions.com/github_images/smartq.png' />
 
 ## how to use this application
 1. you need to deploy a restful application from *https://github.com/onewoorks/smartq*  as reference
