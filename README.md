@@ -1,4 +1,4 @@
-#smart queue prototype
+# smart queue prototype
 mobile application using react native (expo), tested on IOS device only, 
 
 ## how to use this application
