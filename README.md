@@ -7,7 +7,7 @@ mobile application using react native (expo), tested on IOS device only,
 3. git clone this repository to your local drive
 4. cd *smartqueue_expo*
 5. npm install
-6. some installed moduled need to be changed since the original developer not maintaining the code anymore.
+6. some installed module need to be changed since the original developer not maintaining the code anymore.
 7. vim node_modules/react-native-simple-onboarding/index.js
 *line 1: import React, { Component, PropTypes } from 'react';*
 *(remove PropTypes at line 1)*
