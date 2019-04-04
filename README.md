@@ -2,6 +2,9 @@
 mobile application using react native (expo), tested only on IOS device.
 
 <img src='http://onewoorks-solutions.com/github_images/smartq_1.png' width="300px" />
+<img src='http://onewoorks-solutions.com/github_images/smartq_2.png' width="300px" />
+<img src='http://onewoorks-solutions.com/github_images/smartq_3.png' width="300px" />
+<img src='http://onewoorks-solutions.com/github_images/smartq_4.png' width="300px" />
 
 ## how to use this application
 1. you need to deploy a restful application from *https://github.com/onewoorks/smartq*  as reference
